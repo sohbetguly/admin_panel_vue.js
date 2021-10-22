@@ -151,7 +151,10 @@ export default {
         this.$refs.password.focus();
       });
     },
+<<<<<<< HEAD
     // uytgedi vv
+=======
+>>>>>>> parent of c39b9bf (uytgedi)
     handleLogin() {
       this.$refs.loginForm.validate(valid => {
         if (valid) {
